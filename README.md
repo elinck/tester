@@ -4,3 +4,4 @@ local edit
 local edit
 remote edit
 branch edit
+class demo
